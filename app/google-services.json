@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684031874113",
+    "project_id": "playserviceissue",
+    "storage_bucket": "playserviceissue.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684031874113:android:a0c74afea1b4ec7615e2c0",
+        "android_client_info": {
+          "package_name": "com.rlatapy.playserviceIssue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684031874113-pu1v5upk8s17fs0h1i6sbbn0aiqo0ots.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnMxB6jc49KyVmYOrp6wfWqxmBJYulsyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684031874113-pu1v5upk8s17fs0h1i6sbbn0aiqo0ots.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
